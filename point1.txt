@@ -2,4 +2,7 @@ linux
 ssh use to connect in to an online machine using its ip addres
 ssh [user name]@[ip addres]
 naext password or folder with login password
+how ever linex is complex 
+an very important for your step by step 
+day to day activitys in the tech world'
 
