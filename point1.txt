@@ -1,0 +1,5 @@
+linux 
+ssh use to connect in to an online machine using its ip addres
+ssh [user name]@[ip addres]
+naext password or folder with login password
+
